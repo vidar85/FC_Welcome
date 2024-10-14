@@ -1,0 +1,10 @@
+{
+  "Author": "NermalNermal",
+  "Name": "FC Welcome",
+  "Punchline": "Auto send welcome messages for FC people.",
+  "Description": "Send welcome message to people logging in.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "FC"
+  ]
+}
